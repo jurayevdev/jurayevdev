@@ -1,4 +1,5 @@
-# Assalomu alaykum (Hi there 👋)
+Assalomu alaykum (Hi there 👋)
+# I am Full Stack Developer 🇺🇿
 
 
 ## 💻 Tech Stack:
