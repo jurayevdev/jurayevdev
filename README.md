@@ -1,5 +1,5 @@
 # Assalomu alaykum (Hi there 👋)
-## I am Full Stack Developer
+## Node.js backend developer | Vue.js frontend developer
 
 
 ## 💻 Tech Stack:
